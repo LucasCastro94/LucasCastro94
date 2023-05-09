@@ -26,7 +26,7 @@ Olá, Eu sou o **Lucas Castro**, estudante de ADS apaixonado por tecnologia e se
 <img src=https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCastro94&langs_count=8)](https://github.com/LucasCastro94/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCastro94&langs_count=12)](https://github.com/LucasCastro94/github-readme-stats)
 
 
 
